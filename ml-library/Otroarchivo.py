@@ -1,16 +1,16 @@
 #Esto es un conflicto
 
-def primero():
-    return 'Hola'
+def prime41234():
+    return 'Holddda'
 
-def primero1():
-    return 'Hola'
+def prime23():
+    return 'Holaasd'
 
-def primero2():
-    return 'Hola'
+def prime3123():
+    return 'Holaasd'
 
-def primero3():
-    return 'Hola'
+def prime43():
+    return 'Holasda'
 
-def primero4():
-    return 'Hola'
+def prime():
+    return 'Holaasd'
